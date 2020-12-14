@@ -1,0 +1,10 @@
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\bin\Debug\FiveM Server Tools.exe.config
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\bin\Debug\FiveM Server Tools.exe
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\bin\Debug\FiveM Server Tools.pdb
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM Server Tools.csprojAssemblyReference.cache
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM_Server_Tools.Properties.Resources.resources
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM Server Tools.csproj.GenerateResource.cache
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM Server Tools.csproj.CoreCompileInputs.cache
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM Server Tools.exe
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM Server Tools.pdb
+C:\Work Test\FiveM Server Tools\FiveM Server Tools\obj\Debug\FiveM_Server_Tools.FormMain.resources
